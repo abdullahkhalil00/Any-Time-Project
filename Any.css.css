@@ -1,0 +1,62 @@
+.main {
+    background-color:#81cee2 ; 
+    height: 139px;
+}
+img {
+    height: 50%;
+    width: 50%;
+    margin-left: 64px;
+    padding: 9px;
+}
+.font-size {
+  margin-top: 20px;
+}
+button{
+    background-color: #eb7d00;
+    color: #ffffff;
+ border: #eb7d00;
+ padding: 9px 16px;
+ border-radius: 5px;
+}
+
+ 
+
+.topnav a{
+    float: left;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+  
+}
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+.topnav .icon {
+    display: none;
+}
+.topnav a:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.bg-image{
+background-image: url(house-isolated-field.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 423px;
+background-position: center center;
+
+}
+h3,h1{
+    color: white;
+}
+#background{
+    background-color: #0000007d; 
+        margin-left: 45%;
+        padding-left: 49px;
+         margin-top: 50px;
+}
+.topnav .icon {
+    display: none;
+  }
